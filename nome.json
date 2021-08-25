@@ -1,5 +1,7 @@
 {
-	"nome": "Josué",
-  "nome": "Vitor",
-	"editor": "Yan"
+	"nome": [ 
+		"Josué",
+		"Vitor",
+		"Yan"
+	]
 }
